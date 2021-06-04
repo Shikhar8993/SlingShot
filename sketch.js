@@ -10,7 +10,7 @@ var ground;
 var ball;
 
 function preload() {
-	dustbinImg = loadImage("sprites/Dustbin.png");
+	dustbinImg = loadImage("Dustbin.png");
 }
 
 function setup() {
