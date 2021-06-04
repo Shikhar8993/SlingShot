@@ -1,1 +1,2 @@
-# SlingShot
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
